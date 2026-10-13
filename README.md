@@ -10,7 +10,7 @@ Weather and climate data analytics to better understand weather cycles, seasonal
 
 ### Selected Work
 
-- **Software Development** — Web applications, Yii2, and database systems.
+- **Software Development** — Web applications, Android, and database systems.
 - **Data Engineering** — ETL pipelines, data processing, and validation.
 - **Data Analytics & Machine Learning** — Exploratory analysis, NLP, and image classification.
 
