@@ -1,18 +1,10 @@
-# Nanta Es
+# About
 
-**Software Developer & Data Enthusiast**
+### Software Developer & Data Enthusiast
 
-Software development, data engineering, and the intersection
-of technology and local knowledge.
+Developing web applications, working with databases, and exploring data engineering, analytics, and machine learning.
 
-### About
-
-Web applications programmer, work with databases, and explore
-data analytics and machine learning.
-
-My current focus is weather and climate data analytics,
-including the relationship between weather cycles, seasonal
-patterns, and local knowledge.
+Currently working on weather and climate data analytics to better understand weather cycles, seasonal patterns, and their connections to local cultural knowledge.
 
 ### Currently Working On
 
