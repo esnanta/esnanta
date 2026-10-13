@@ -24,7 +24,6 @@ patterns, and local knowledge.
 - **Software Development** — Web applications, Yii2, and database systems.
 - **Data Engineering** — ETL pipelines, data processing, and validation.
 - **Data Analytics & Machine Learning** — Exploratory analysis, NLP, and image classification.
-- **Digital Heritage** — Documentation of Acehnese cultural traditions.
 
 ### Technologies
 
