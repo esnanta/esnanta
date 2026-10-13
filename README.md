@@ -4,12 +4,9 @@
 
 Developing web applications, working with databases, and exploring data engineering, analytics, and machine learning.
 
-Currently working on weather and climate data analytics to better understand weather cycles, seasonal patterns, and their connections to local cultural knowledge.
-
 ### Currently Working On
 
-- Weather data ETL and analytics to explore weather patterns
-  and their connections to local cultural knowledge.
+Weather and climate data analytics to better understand weather cycles, seasonal patterns, and their connections to local cultural knowledge.
 
 ### Selected Work
 
