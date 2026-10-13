@@ -22,4 +22,4 @@ Apache Airflow · Pandas · Docker · Git
 ### Contact
 
 [GitHub](https://github.com/esnanta) ·
-[Email](mailto:nanta.es13@gmail.com)
+[Email](mailto:ombakrinai@gmail.com)
