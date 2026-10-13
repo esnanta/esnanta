@@ -7,7 +7,7 @@ of technology and local knowledge.
 
 ### About
 
-I develop web applications, work with databases, and explore
+Web applications programmer, work with databases, and explore
 data analytics and machine learning.
 
 My current focus is weather and climate data analytics,
